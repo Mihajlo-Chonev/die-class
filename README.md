@@ -1,2 +1,2 @@
-# Git Lab #2
-## First team member: Mihajlo-Chonev
+# The second Git Lab
+## Second team member: SecondVirtualPartner
